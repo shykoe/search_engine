@@ -1,8 +1,4 @@
- ///
- /// @file    FileProcessor.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 10:17:19
- ///
+
 
 
 #ifndef _WD_FILEPROCESSOR_H_

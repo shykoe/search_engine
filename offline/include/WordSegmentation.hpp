@@ -1,8 +1,3 @@
- ///
- /// @file    WordSegmentation.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-18 15:43:06
- ///
 
 #ifndef _WD_WORD_SEGMENTATION_H_
 #define _WD_WORD_SEGMENTATION_H_
@@ -22,9 +17,9 @@ using std::vector;
 namespace wd
 {
 
-const char * const DICT_PATH = "/home/luo/project/cppjieba/dict/jieba.dict.utf8";
-const char * const HMM_PATH = "/home/luo/project/cppjieba/dict/hmm_model.utf8";
-const char * const USER_DICT_PATH = "/home/luo/project/cppjieba/dict/user.dict.utf8";
+const char * const DICT_PATH = "/home/shykoe/code/search_engine/jieba.dict.utf8";
+const char * const HMM_PATH = "/home/shykoe/code/search_engine/hmm_model.utf8";
+const char * const USER_DICT_PATH = "/home/shykoe/code/search_engine/user.dict.utf8";
 
 
 class WordSegmentation

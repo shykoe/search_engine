@@ -1,10 +1,3 @@
- ///
- /// @file    DirScannerBak.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 09:34:28
- ///
-
-
 #include "DirScanner.hpp"
 #include "Configuration.hpp"
 #include "GlobalDefine.hpp"

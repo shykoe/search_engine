@@ -1,8 +1,4 @@
- ///
- /// @file    PageLibPreprocessor.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-19 10:41:45
- ///
+
 
 
 #ifndef _WD_PAGE_LIB_PREPROCESSOR_H_

@@ -1,9 +1,3 @@
- ///
- /// @file    test_offline.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-12 11:21:17
- ///
-
 #include "GlobalDefine.hpp"
 #include "Configuration.hpp"
 #include "DirScanner.hpp"
@@ -31,7 +25,7 @@ int main(void)
 	pagelib.create();
 	pagelib.store();
 	time_t t2 = time(NULL);
-	printf("raw lib create and store time: %d min\n", (t2 - t1));
+	printf("raw lib create and store time: %d s\n", (t2 - t1));
 
 	wd::PageLibPreprocessor libPreprocessor(conf);
 	libPreprocessor.doProcess();

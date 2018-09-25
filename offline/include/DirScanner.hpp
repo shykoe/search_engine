@@ -1,8 +1,3 @@
- ///
- /// @file    DirScanner.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 09:26:00
- ///
 
 
 #ifndef _WD_DIRSCAN_H_

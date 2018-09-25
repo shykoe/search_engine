@@ -1,8 +1,4 @@
- ///
- /// @file    Configuration.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 17:21:12
- ///
+
 
 #ifndef _WD_CONFIGURATION_H_
 #define _WD_CONFIGURATION_H_

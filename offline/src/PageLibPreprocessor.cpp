@@ -1,10 +1,3 @@
- ///
- /// @file    PageLibPreprocessor.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-19 11:35:20
- ///
-
-
 #include "PageLibPreprocessor.hpp"
 #include "GlobalDefine.hpp"
 
