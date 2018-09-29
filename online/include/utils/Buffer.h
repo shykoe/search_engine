@@ -1,8 +1,4 @@
- ///
- /// @file    Buffer.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:24:53
- ///
+
 
 
 #ifndef _WD_BUFFER_H

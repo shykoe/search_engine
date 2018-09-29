@@ -1,8 +1,4 @@
- ///
- /// @file    EpollPoller.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-06 16:18:29
- ///
+
 
 #include "EpollPoller.h"
 #include <unistd.h>

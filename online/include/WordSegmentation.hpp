@@ -1,8 +1,4 @@
- ///
- /// @file    WordSegmentation.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-18 15:43:06
- ///
+
 
 #ifndef _WD_WORD_SEGMENTATION_H_
 #define _WD_WORD_SEGMENTATION_H_

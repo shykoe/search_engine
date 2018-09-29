@@ -1,8 +1,4 @@
- ///
- /// @file    Condition.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:17:41
- ///
+
 
 #ifndef _WD_CONDITION_H
 #define _WD_CONDITION_H

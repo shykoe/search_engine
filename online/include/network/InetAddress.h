@@ -1,8 +1,4 @@
- ///
- /// @file    InetAddress.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-04 17:08:29
- ///
+
 
 
 #ifndef _WD_INETADDRESS_H

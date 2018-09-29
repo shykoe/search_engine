@@ -1,8 +1,3 @@
- ///
- /// @file    TcpServer.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-07 10:19:27
- ///
 
 #ifndef _WD_TCPSERVER_H
 #define _WD_TCPSERVER_H

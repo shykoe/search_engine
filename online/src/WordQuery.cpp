@@ -1,9 +1,4 @@
- ///
- /// @file    WordQuery.cpp
 
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-21 09:53:03
- ///
 
 #include "WordQuery.hpp"
 #include "GlobalDefine.hpp"

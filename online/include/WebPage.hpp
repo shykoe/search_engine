@@ -1,8 +1,4 @@
- ///
- /// @file    WebPage.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-18 16:38:20
- ///
+
 
 #ifndef _WD_WEB_PAGE_H_
 #define _WD_WEB_PAGE_H_

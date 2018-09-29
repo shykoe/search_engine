@@ -1,8 +1,4 @@
- ///
- /// @file    EpollPoller.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-06 16:12:11
- ///
+
 
 
 #ifndef __WD_EPOLLPOLLER_H

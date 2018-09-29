@@ -1,8 +1,4 @@
- ///
- /// @file    SocketIO.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-05 16:10:26
- ///
+
 
 #ifndef _WD_SOCKETIO_H
 #define _WD_SOCKETIO_H

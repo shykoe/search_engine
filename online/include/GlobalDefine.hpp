@@ -1,8 +1,4 @@
- ///
- /// @file    GlobalDefine.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-18 15:03:02
- ///
+
 
 
 #ifndef _WD_GLOBAL_DEFINE_H_

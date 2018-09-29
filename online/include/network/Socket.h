@@ -1,8 +1,4 @@
- ///
- /// @file    Socket.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-04 17:25:32
- ///
+
 
 #ifndef __WD_SOCKET_H
 #define __WD_SOCKET_H

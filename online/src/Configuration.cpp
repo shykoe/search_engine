@@ -1,8 +1,4 @@
- ///
- /// @file    Configuration.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 17:30:39
- ///
+
 
 #include "Configuration.hpp"
 #include "GlobalDefine.hpp"

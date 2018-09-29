@@ -1,8 +1,4 @@
- ///
- /// @file    WordQuery.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-01-21 09:42:00
- ///
+
 
 #ifndef _WD_WORD_QUERY_H_
 #define _WD_WORD_QUERY_H_
